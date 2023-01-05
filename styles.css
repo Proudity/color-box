@@ -1,3 +1,5 @@
 .container{
-background: linear-gradient(
+margin: 20px;
+padding: 90px;
+background: linear-gradient(purple, navy);
 }
